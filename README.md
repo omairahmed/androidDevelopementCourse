@@ -1,2 +1,1 @@
-# androidDevelopementCourse
-This repository is for learning and testing projects
+first editing 
